@@ -1,5 +1,13 @@
 # Histórico de versões
 
+## 0.1.2 — 2026-09-10
+
+- Implementa OWNER global com cadeia Ed25519 e challenge-response anti-replay.
+- Adiciona licença corporativa assinada, enforcement central e versão mínima.
+- Provisiona chaves distintas para OWNER, licença e release em cofre do Windows.
+- Adiciona restauração autenticada do backup OWNER com dry-run e teste isolado.
+- Publica o instalador oficial com manifesto e assinatura delegada de release.
+
 ## 0.1.1 — 2026-09-10
 
 - Automatiza commits e pushes com validação de branch, remote e fast-forward.
