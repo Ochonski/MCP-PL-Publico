@@ -1,7 +1,8 @@
 {
   "schemaVersion": 1,
   "licenses": [],
-  "signature": "",
-  "keyId": "",
-  "manifestStatus": "PENDING"
+  "signature": "q+FagM50uVE+E/6+9ZdVmLZXe3AnLNF1qr1IXZOL5NrIsK9Spo1weL/MOVZfL2shK+pI8cYeLIIxMhMNtzBuAQ==",
+  "keyId": "mcp-pl-license-v1",
+  "manifestStatus": "ACTIVE",
+  "issuedAt": "2026-09-10T16:52:48.189845+00:00"
 }

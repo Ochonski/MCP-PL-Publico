@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 1,
+  "rootKeyId": "mcp-pl-owner-root-v1",
+  "rootPublicKey": "zwZYRcw41GtO7QmO4R/ZY86wSLC+iP3QCZOSX/HSEHk=",
+  "rootFingerprint": "0e6584acecfa50d99efd80f206796a5d3361f976f9828e749924af03a469ce42",
+  "operationalKeys": [
+    {
+      "keyId": "mcp-pl-owner-v1",
+      "purpose": "OWNER",
+      "publicKey": "fa0UwPFo2oJo/FodsjDEtGuf7z+bmwU3amgM5L5SNrw=",
+      "issuedAt": "2026-09-10T16:49:37.319668+00:00",
+      "rootSignature": "ZokJ01m9vEJsay5L/O7icgu9fXJG+k9upptcoKpGzw+zMtv+FHmI41uukglPxo+XdEDfmNTeAi/n/cDralIzCw=="
+    },
+    {
+      "keyId": "mcp-pl-license-v1",
+      "purpose": "LICENSE",
+      "publicKey": "E4E4QplZ5MopXd5Ev9DOQpIVImHYgzf8QYwWzxeDB8I=",
+      "issuedAt": "2026-09-10T16:49:37.319668+00:00",
+      "rootSignature": "4spVvrQHKFBlcbN30le5FbB3x+ng40FTIvAlZnYThb3UGM+jeSam9c0p4/5dkpJHnO1A7cHicC90d5LmoSf7BA=="
+    },
+    {
+      "keyId": "mcp-pl-release-v1",
+      "purpose": "RELEASE",
+      "publicKey": "JsHs35K4dA6H5d4IRz0FT10tIDW3SifU5PjvRsjH488=",
+      "issuedAt": "2026-09-10T16:49:37.319668+00:00",
+      "rootSignature": "nTeorZbNxYIRbarjZY3K3SZclUNwK9ji9KtpOo6Es7xRkf7auCjfHRMNHAponcXLNJKV4mY5vNwCpeWm4ZYODw=="
+    }
+  ],
+  "revokedKeyIds": []
+}
