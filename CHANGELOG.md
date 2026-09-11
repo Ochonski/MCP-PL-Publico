@@ -1,5 +1,10 @@
 # Histórico de versões
 
+## 0.3.1 — 2026-09-11
+
+- Corrige upgrades que preservavam o `version.json` antigo e faziam o EXE novo continuar exibindo a versão anterior.
+- Atualiza atomicamente a versão e a cadeia pública de confiança a partir do EXE instalado, preservando configurações e dados do usuário.
+
 ## 0.3.0 — 2026-09-11
 
 - Adiciona acesso OWNER temporário por código de seis números enviado por e-mail e validado por serviço central HTTPS.
