@@ -1,5 +1,10 @@
 # Histórico de versões
 
+## 0.2.1 — 2026-09-11
+
+- Disponibiliza a verificação de atualizações diretamente na Visão Geral para usuários com perfil Visualizador.
+- Mantém o acesso às demais funções administrativas protegido pelas permissões existentes.
+
 ## 0.2.0 — 2026-09-10
 
 - Adiciona instalador Windows por usuário com upgrade e desinstalação segura.
