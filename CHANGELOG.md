@@ -1,5 +1,10 @@
 # Histórico de versões
 
+## 0.2.2 — 2026-09-11
+
+- Corrige o fechamento pelo X para minimizar à bandeja ou encerrar completamente quando a bandeja do Windows estiver indisponível.
+- Adiciona encerramento cooperativo do launcher antes da desinstalação, evitando processo invisível e arquivo bloqueado.
+
 ## 0.2.1 — 2026-09-11
 
 - Disponibiliza a verificação de atualizações diretamente na Visão Geral para usuários com perfil Visualizador.
