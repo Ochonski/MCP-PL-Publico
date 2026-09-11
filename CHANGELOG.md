@@ -1,5 +1,11 @@
 # Histórico de versões
 
+## 0.3.0 — 2026-09-11
+
+- Adiciona acesso OWNER temporário por código de seis números enviado por e-mail e validado por serviço central HTTPS.
+- Vincula o código ao desafio e à instalação, limita tentativas, aplica uso único e mantém sessão OWNER por 15 minutos.
+- Preserva o fluxo por arquivo como recuperação quando o serviço central não estiver configurado.
+
 ## 0.2.2 — 2026-09-11
 
 - Corrige o fechamento pelo X para minimizar à bandeja ou encerrar completamente quando a bandeja do Windows estiver indisponível.
