@@ -1,5 +1,12 @@
 # Histórico de versões
 
+## 0.2.0 — 2026-09-10
+
+- Adiciona instalador Windows por usuário com upgrade e desinstalação segura.
+- Separa binários dos dados persistentes e torna o servidor MCP autônomo no EXE.
+- Adiciona diagnóstico sanitizado e log de bootstrap com rotação limitada.
+- Permite solicitar acesso OWNER temporário em qualquer instalação por desafio assinado, sem transferir a chave privada OWNER.
+
 ## 0.1.2 — 2026-09-10
 
 - Implementa OWNER global com cadeia Ed25519 e challenge-response anti-replay.
