@@ -1,5 +1,12 @@
 # Histórico de versões
 
+## 0.4.0 — 2026-09-12
+
+- Torna o Firebase Authentication por e-mail e senha o login principal da sessão OWNER temporária.
+- Autoriza exclusivamente o UID OWNER confiável, exige e-mail verificado e valida assinatura, projeto e expiração do ID token.
+- Mantém senha e tokens somente durante a autenticação, sem persistência, refresh automático, cadastro ou Firebase Admin no cliente.
+- Exibe contagem regressiva de 15 minutos, logout imediato e acesso criptográfico de contingência.
+
 ## 0.3.1 — 2026-09-11
 
 - Corrige upgrades que preservavam o `version.json` antigo e faziam o EXE novo continuar exibindo a versão anterior.
