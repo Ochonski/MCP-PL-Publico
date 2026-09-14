@@ -1,5 +1,11 @@
 # Histórico de versões
 
+## 0.4.1 — 2026-09-14
+
+- Remove a confirmação genérica exibida antes de o login OWNER terminar.
+- Mantém o botão e o indicador em estado de autenticação até a resposta do Firebase.
+- Confirma explicitamente quando a sessão não foi criada e registra somente a categoria sanitizada da falha.
+
 ## 0.4.0 — 2026-09-12
 
 - Torna o Firebase Authentication por e-mail e senha o login principal da sessão OWNER temporária.
