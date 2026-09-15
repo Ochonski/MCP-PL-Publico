@@ -1,5 +1,12 @@
 # Histórico de versões
 
+## 0.6.0 — 2026-09-15
+
+- Adiciona `integration_search_files` para localizar arquivos por nome ou caminho em todas as Bases de Soluções habilitadas.
+- Adiciona `integration_read_file` para ler somente conteúdo já sanitizado de um resultado indexado, sem acesso livre ao disco.
+- Orienta todos os clientes MCP a consultar os documentos autorizados antes de pedir anexos ao usuário.
+- Migra o catálogo não sensível do BI2 para instalações existentes sem apagar conexões e passa a exibir seu estado no dashboard e nas tools MCP.
+
 ## 0.5.1 — 2026-09-15
 
 - Indexa automaticamente Oracle Forms e Bases de Soluções logo após salvar uma pasta, sem exigir reinício do painel.
