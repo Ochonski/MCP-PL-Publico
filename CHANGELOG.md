@@ -1,5 +1,12 @@
 # Histórico de versões
 
+## 0.6.1 — 2026-09-15
+
+- Corrige o início automático do Secure MCP Tunnel: cada integração habilitada, configurada e marcada para início automático passa a ser avaliada ao abrir o launcher, sem bloqueio por configuração global antiga.
+- Registra início, confirmação, falha e parada do túnel como eventos sanitizados na página Logs.
+- Corrige a reconstrução visual das tabelas de conexões e integrações, removendo widgets antigos antes de redesenhar o status.
+- Apresenta BI2 como conexão única no cadastro, com autenticação Windows e política somente leitura do catálogo corporativo.
+
 ## 0.6.0 — 2026-09-15
 
 - Adiciona `integration_search_files` para localizar arquivos por nome ou caminho em todas as Bases de Soluções habilitadas.
