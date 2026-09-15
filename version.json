@@ -9,8 +9,8 @@
   "sha256": "f98a6368c12fca93074434d992bcc71c02830c914808d6860af090773cf9f6f8",
   "mandatory": false,
   "releaseChannel": "STABLE",
-  "notes": "Correções de persistência e indexação automática.",
-  "signature": "",
-  "keyId": "",
-  "releaseStatus": "PREPARED"
+  "notes": "Corre\u00e7\u00f5es de persist\u00eancia e indexa\u00e7\u00e3o autom\u00e1tica.",
+  "signature": "NI2/m2Vc0H+aOTvbUbTbl5GAOiHVd8rJ1y6qYYoFA7ijZZYfFVsBXAFy7NhXVL5UtVeZvojnXkJLZ5dRCjcGCw==",
+  "keyId": "mcp-pl-release-v1",
+  "releaseStatus": "PUBLISHED"
 }
