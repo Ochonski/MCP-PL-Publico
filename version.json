@@ -1,16 +1,16 @@
 {
   "schemaVersion": 1,
   "name": "MCP PL",
-  "latestVersion": "0.5.0",
-  "buildNumber": "20260915.1",
-  "downloadUrl": "https://github.com/Ochonski/MCP-PL-Publico/releases/download/v0.5.0/MCP-PL-Launcher.exe",
+  "latestVersion": "0.5.1",
+  "buildNumber": "20260915.2",
+  "downloadUrl": "https://github.com/Ochonski/MCP-PL-Publico/releases/download/v0.5.1/MCP-PL-Launcher.exe",
   "fileName": "MCP-PL-Launcher.exe",
-  "fileSize": 71322694,
-  "sha256": "51a97461ab78590921b671df88dd9f75ed3748f1f86c017bab40d9a5594b86a2",
+  "fileSize": 71326061,
+  "sha256": "f98a6368c12fca93074434d992bcc71c02830c914808d6860af090773cf9f6f8",
   "mandatory": false,
   "releaseChannel": "STABLE",
-  "notes": "Manifesto preparado; asset e assinatura s\u00e3o publicados separadamente.",
-  "signature": "FNJUa2ZoUpk298lbzDb5rDsEnzJfHKGOQFgnVOSRgOuji9bQyJVZaKAEtVxtUzhBa+BQsmtCCjlFjCkBhR1gDQ==",
-  "keyId": "mcp-pl-release-v1",
-  "releaseStatus": "PUBLISHED"
+  "notes": "Correções de persistência e indexação automática.",
+  "signature": "",
+  "keyId": "",
+  "releaseStatus": "PREPARED"
 }

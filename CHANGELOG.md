@@ -1,5 +1,12 @@
 # Histórico de versões
 
+## 0.5.1 — 2026-09-15
+
+- Indexa automaticamente Oracle Forms e Bases de Soluções logo após salvar uma pasta, sem exigir reinício do painel.
+- Mantém cadastro de conexões em gravação atômica e usa a mesma pasta de dados no launcher e no servidor MCP instalado.
+- Exibe o estado real de cada Base: acesso indisponível, sem arquivos compatíveis, não indexada ou quantidade efetiva de arquivos indexados.
+- Restringe a pesquisa MCP às Bases habilitadas.
+
 ## 0.4.1 — 2026-09-14
 
 - Remove a confirmação genérica exibida antes de o login OWNER terminar.
